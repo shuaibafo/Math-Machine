@@ -1,1 +1,1 @@
-# The-Kay-s-Repository
+This game is targetted at 7-10 year olds and designed to engage them with an educational outlet. I made this game as a part of my BTEC Computer Science course - specifically the games development unit. It is written in JavaScript and was made on p5play.
